@@ -1,4 +1,4 @@
-# Hopital-management
+# Hospital-management
 
 # Pre-requesties
 Install Tikinter 
